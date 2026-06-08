@@ -1,7 +1,7 @@
 <h2 align="center"></h2>
 <h1 align="center"><font face="Arial">Hello there! My name is <a href="https://www.linkedin.com/in/rajnesh-kumar/" target="_blank" rel="noreferrer">Rajnesh Kumar</a>. 👋 </font></h1>
 <p align="center"> DevOps Engineer from India.
-I Have a experience DevOps Engineer with more than 8 years of experience in CI/CD pipeline automation, container orchestration, cloud infrastructure, and. Proficient in AWS, Azure, Docker, Kubernetes, and a range of DevOps tools like GitLab CI/CD, Jenkins, and Ansible. Skilled in Infrastructure as Code (IaC) using Terraform, CloudFormation, and Ansible, with extensive experience in monitoring and troubleshooting cloud-hosted systems using Grafana, Nagios, and Prometheus. Proven ability to deploy, automate, and manage large-scale production systems, ensuring performance, scalability, and security.
+I Have a experience DevOps Engineer with more than 9+ years of experience in CI/CD pipeline automation, container orchestration, cloud infrastructure, and. Proficient in AWS, Azure, Docker, Kubernetes, and a range of DevOps tools like GitLab CI/CD, Jenkins, and Ansible. Skilled in Infrastructure as Code (IaC) using Terraform, CloudFormation, and Ansible, with extensive experience in monitoring and troubleshooting cloud-hosted systems using Grafana, Nagios, and Prometheus. Proven ability to deploy, automate, and manage large-scale production systems, ensuring performance, scalability, and security.
 
 
 ## ⚡ Updates
