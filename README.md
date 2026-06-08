@@ -6,7 +6,7 @@ I Have a experience DevOps Engineer with more than 8 years of experience in CI/C
 
 ## ⚡ Updates
 
-- 🖥️ I am currently working In Deutsche Teleokm Digital Lab Gurugram India as a Senior DevOps Engineer<br>
+- 🖥️ I am currently working In Deutsche Teleokm Digital Lab Gurugram India as a Principle DevOps Engineer<br>
 - 🤝 I am Looking to Collaborate on DevOps Tasks on Cloud and on premises.<br>
 - <img height="13" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png"> Cloud, DevOps, Infrastructure pipeline and automation.<br>
 - 🌱Currently learning AWS architecture things.<br>
